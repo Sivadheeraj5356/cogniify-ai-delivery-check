@@ -1,0 +1,1 @@
+{"name":"cogniify-ai-delivery-check","version":"1.0.0","private":false,"description":"Delivery-readiness checks for full-stack AI product changes","type":"module","scripts":{"test":"node --test"},"engines":{"node":">=18"},"license":"MIT"}
